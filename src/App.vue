@@ -12,6 +12,7 @@
   - Corrigir link de "Fazer Pedidos" na tela de "Pedidos";
 */
 
+
 import Navbar from './components/Navbar.vue'
 import Footer from './components/Footer.vue'
 export default {
