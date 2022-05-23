@@ -17,11 +17,13 @@ npm run serve
 npm run backend
 ```
 
-MELHORIAS:
+### MELHORIAS
+```
   - Verificar o problema para o segundo pedido simultâneo;
   - Realizar validações de seleções inexitentes "Selecione...";
   - Melhorar layout da tabela de pedidos.
   - Corrigir link de "Fazer Pedidos" na tela de "Pedidos";
+```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
